@@ -2,6 +2,7 @@
 This Calculator Application  Performs All the Complex Mathematical Calculations.
 
 Examples are as shown Below:
+
 // define and use variables
 >> var = 42
 42
@@ -38,6 +39,7 @@ Examples are as shown Below:
 
 
 FEATURES
+
 Variables
 Functions (multiple parameters possible)
 Complex Number arithmetic
@@ -45,9 +47,11 @@ Minimal list support
 
 
 BUILT IN CONSTARINTS
+
 pi, e, i, deg (will convert to rad, so you can write sin(90deg))
 
 BUILT IN FUNCTIONS
+
 Trigonometric: sin, cos, tan, asin, acos, atan, sinh, cosh, tanh, asinh, acosh, atanh
 
 Temperature Conversion: CtoF, CtoK, FtoC, FtoK, KtoC, KtoF
